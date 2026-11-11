@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\homework\\P12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3149ABA1-5478-45E3-BA90-A598EA1E5C42}|P12\\P12.vcxproj|C:\\homework\\P12\\P12\\p12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3149ABA1-5478-45E3-BA90-A598EA1E5C42}|P12\\P12.vcxproj|solutionrelative:P12\\p12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "p12.cpp",
+              "DocumentMoniker": "C:\\homework\\P12\\P12\\p12.cpp",
+              "RelativeDocumentMoniker": "P12\\p12.cpp",
+              "ToolTip": "C:\\homework\\P12\\P12\\p12.cpp*",
+              "RelativeToolTip": "P12\\p12.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-11T10:36:50.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
